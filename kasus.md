@@ -1,5 +1,12 @@
 # ბრუნება
 
+|           |             |                 |                    |
+| --------- | ----------- | --------------- | ------------------ |
+| Nominativ | სახელობითი  | Wer/Was?        | ვინ/რა?            |
+| Genetiv   | ნათესაობითი | Wessen?         | ვისი?              |
+| Dativ     | მიცემითი    | Wem? Wo? Woher? | ვის? სად? საიდან?  |
+| Akkusativ | ბრალდებითი  | Wen/Was? Wohin? | ვის? რას? საითკენ? |
+
 
 
 ## არტიკლები
@@ -30,4 +37,8 @@
 | Genetiv   | kein**es** | keine**r** | kein**es** | keine**r** |
 | Dativ     | keine**m** | keine**r** | kein**em** | keine**n** |
 | Akkusativ | keine**n** | kein**e**  | kein       | kein**e**  |
+
+
+
+## არსებით სახელთან ერთად
 
